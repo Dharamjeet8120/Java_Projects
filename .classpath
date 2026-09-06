@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-24">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="01_Student_Management_System">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="03_Bank_Account_Management"/>
+	<classpathentry kind="src" path="04_Employee_Management_System"/>
+	<classpathentry kind="src" path="05_Contact_Management_System"/>
+	<classpathentry kind="src" path="06_Quiz_Application"/>
+	<classpathentry kind="src" path="07_ATM_Simulation"/>
+	<classpathentry kind="src" path="08_Number_Guessing_Game"/>
+	<classpathentry kind="src" path="09_Tic_Tac_Toe"/>
+	<classpathentry kind="src" path="10_Expense_Tracker"/>
+	<classpathentry kind="src" path="11_Hotel_Management_System"/>
+	<classpathentry kind="src" path="12_Inventory_Management_System"/>
+	<classpathentry kind="src" path="13_Vehicle_Rental_System"/>
+	<classpathentry kind="src" path="14_Online_Shopping_System"/>
+	<classpathentry kind="src" path="15_Hospital_Management_System"/>
+	<classpathentry kind="src" path="16_Food_Ordering_System"/>
+	<classpathentry kind="src" path="17_Employee_Payroll_System"/>
+	<classpathentry kind="src" path="18_Banking_Management_System"/>
+	<classpathentry kind="src" path="19_Railway_Reservation_System"/>
+	<classpathentry kind="src" path="20_Job_Portal_System"/>
+	<classpathentry kind="src" path="21_ECommerce_Backend_JDBC"/>
+	<classpathentry kind="src" path="22_Banking_Application_JDBC"/>
+	<classpathentry kind="src" path="23_Student_Placement_Management_JDBC"/>
+	<classpathentry kind="src" path="24_Online_Examination_System_JDBC"/>
+	<classpathentry kind="src" path="25_Employee_Leave_Management_JDBC"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="02_Library_Management_System/com"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="02_Library_Management_System">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
